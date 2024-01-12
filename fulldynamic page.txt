@@ -1,0 +1,12 @@
+Full dynamic page creation with  db connectivity
+https://www.youtube.com/watch?v=pzwqgVSGAuU&t=390s
+
+
+user registration 
+and login 
+
+https://codewithawa.com/posts/complete-user-registration-system-using-php-and-mysql-database
+https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/
+
+record view edit ........
+https://www.allphptricks.com/insert-view-edit-and-delete-record-from-database-using-php-and-mysqli/
